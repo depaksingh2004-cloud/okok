@@ -293,6 +293,7 @@ filter-btn:hover {
 }
 
 .contact-item i {
+    transform: rotate(90deg);
     font-size: 1.5rem;
     color: #e74c3c;
     margin-right: 15px;
@@ -457,4 +458,5 @@ footer {
 .filter-btn {
     padding: 8px 15px;
     font-size: 0.9rem;
+
 }
